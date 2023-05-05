@@ -1,0 +1,38 @@
+h1 {
+        font-family:Roboto;
+    
+        color:#eb4f34;    
+}
+u{
+    font-style: italic;
+}
+
+h2 {
+    font-style: italic;
+    
+        color:#eb4f34;    
+}
+ ol{
+    color:#571717;
+ }
+
+ ul{
+    color:#571717;
+    letter-spacing: 3px;
+
+ }
+  mark {
+
+    color:#571717;
+  }
+
+
+pre {
+     color: #571717;
+      font-family: Condensed;
+
+}
+
+a{
+  text-decoration: none;
+}
